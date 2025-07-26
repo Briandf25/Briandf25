@@ -50,6 +50,7 @@ Me interesa aplicar mis conocimientos en proyectos reales y colaborar con equipo
 ## 📈 Actividad reciente
 
 ![Actividad](https://github-readme-activity-graph.cyclic.app/graph?username=Briandf25&theme=github-compact)
+---
 
 <!-- Contador de visitas opcional -->
 
