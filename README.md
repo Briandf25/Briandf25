@@ -47,6 +47,9 @@ Me interesa aplicar mis conocimientos en proyectos reales y colaborar con equipo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Briandf25&layout=compact&theme=dark)
 
 ---
+## 📈 Actividad reciente
+
+![Actividad](https://github-readme-activity-graph.cyclic.app/graph?username=Briandf25&theme=github-compact)
 
 <!-- Contador de visitas opcional -->
 
