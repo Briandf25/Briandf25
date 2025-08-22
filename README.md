@@ -54,14 +54,13 @@ integrando experiencia práctica con formación constante en:
 
 ---
 
-## 🌱 Actualmente me estoy formando en:  
-
-- Seguridad informática (Blue Team / Red Team)  
+## 🌱 Actualmente me estoy formando en:
+- Ciberseguridad  
 - Redes y protocolos  
 - Pipelines CI/CD  
 - Monitoreo avanzado  
 - Automatización de tareas  
-- Pruebas de penetración (introducción)  
+- Gestión y seguridad de sistemas    
 
 ---
 
