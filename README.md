@@ -2,10 +2,24 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
-# 👋 ¡Hola! Soy Brian Franco
+👋 Hola, soy Brian Franco  
 
-Soy un DevOps Jr. en formación constante en áreas de automatización, infraestructura, monitoreo y ciberseguridad.  
-Me interesa aplicar mis conocimientos en proyectos reales y colaborar con equipos que valoren la mejora continua.  
+💻 **SOC Engineer Jr.** 
+Apasionado por la **ciberseguridad, monitoreo y gestión de incidentes**.  
+Actualmente me desempeño en la detección y análisis de eventos críticos en entornos productivos.  
+
+---
+
+## 🛡️ Sobre mí  
+- Monitoreo y gestión de alertas con **Zabbix, Grafana, Sensu**  
+- Escalamiento y coordinación de incidentes con **PagerDuty**  
+- Configuración de dashboards y métricas para servicios críticos  
+- En formación continua en **DevOps, Linux y Automatización**  
+
+---
+
+## 🚀 Objetivo  
+Seguir creciendo como profesional en **ciberseguridad y operaciones**, integrando conocimientos técnicos con mejores prácticas de monitoreo y respuesta a incidentes.  
 
 ---
 
