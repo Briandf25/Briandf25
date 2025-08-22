@@ -2,35 +2,41 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
-👋 Hola, soy Brian Franco  
+# 👋 Hola, soy Brian Franco  
 
-💻 **SOC Engineer Jr.** 
-Apasionado por la **ciberseguridad, monitoreo y gestión de incidentes**.  
+💻 **SOC Engineer Jr.**  
+Apasionado por la **ciberseguridad, el monitoreo y la gestión de incidentes**.  
 Actualmente me desempeño en la detección y análisis de eventos críticos en entornos productivos.  
 
 ---
 
 ## 🛡️ Sobre mí  
-- Monitoreo y gestión de alertas con **Zabbix, Grafana, Sensu**  
+- Monitoreo y gestión de alertas con **Zabbix y Grafana**  
 - Escalamiento y coordinación de incidentes con **PagerDuty**  
-- Configuración de dashboards y métricas para servicios críticos  
-- En formación continua en **DevOps, Linux y Automatización**  
+- Seguimiento de tareas y reportes con **Jira**  
+- Supervisión de procesos industriales con **FAST Tools**  
+- Formación continua en **Ciberseguridad, DevOps y Automatización**  
 
 ---
 
 ## 🚀 Objetivo  
-Seguir creciendo como profesional en **ciberseguridad y operaciones**, integrando conocimientos técnicos con mejores prácticas de monitoreo y respuesta a incidentes.  
+Seguir desarrollándome como **profesional en Ciberseguridad y Operaciones (SOC)**,  
+integrando experiencia práctica con formación constante en:  
+- Seguridad informática defensiva  
+- Monitoreo y respuesta a incidentes  
+- Automatización de procesos  
+- Mejores prácticas en infraestructura y operaciones  
 
 ---
 
-## 📬 Contacto
+## 📬 Contacto  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-franco-devops/)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francobbrian.16@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francobbrian.16@gmail.com)  
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas  
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,16 +48,20 @@ Seguir creciendo como profesional en **ciberseguridad y operaciones**, integrand
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
+![FAST Tools](https://img.shields.io/badge/FAST--Tools-0078D7?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
-## 🌱 Actualmente me estoy formando en:
+## 🌱 Actualmente me estoy formando en:  
 
-- Pipelines CI/CD
-- Seguridad informática
-- Redes
-- Monitoreo
-- Automatización de tareas
+- Seguridad informática (Blue Team / Red Team)  
+- Redes y protocolos  
+- Pipelines CI/CD  
+- Monitoreo avanzado  
+- Automatización de tareas  
+- Pruebas de penetración (introducción)  
 
 ---
 
