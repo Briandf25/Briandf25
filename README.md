@@ -31,7 +31,7 @@ integrando experiencia práctica con formación constante en:
 
 ## 📬 Contacto  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-franco-devops/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianfranco-soc-engineer/)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francobbrian.16@gmail.com)  
 
 ---
