@@ -38,19 +38,30 @@ integrando experiencia práctica con formación constante en:
 
 ## 🛠️ Tecnologías y Herramientas  
 
+### 🔐 Seguridad y Operaciones
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![FAST Tools](https://img.shields.io/badge/FAST--Tools-0078D7?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+### ⚙️ DevOps & Automatización
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
-![FAST Tools](https://img.shields.io/badge/FAST--Tools-0078D7?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+### 🎨 UX/UI & Diseño
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material--Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![Atomic Design](https://img.shields.io/badge/Atomic--Design-000000?style=for-the-badge&logo=storybook&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design--Systems-4A90E2?style=for-the-badge&logo=storybook&logoColor=white)
+![UX Research](https://img.shields.io/badge/UX--Research-8E44AD?style=for-the-badge)
+![Wireframing](https://img.shields.io/badge/Wireframing-2ECC71?style=for-the-badge)
 
 ---
 
@@ -66,7 +77,7 @@ integrando experiencia práctica con formación constante en:
 
 ## 🎓 Formación en Diseño UX/UI – Talento Tech
 
-### 🧠 Fundamentos del Diseño UX
+### 🧠 Fundamentos del Diseño UX (1 cuatrimestre)
 - Investigación UX (entrevistas, encuestas y benchmarking competitivo)
 - User Persona y Mapa de Empatía
 - User Journey Map (UJM)
@@ -76,7 +87,7 @@ integrando experiencia práctica con formación constante en:
 - Wireframing y prototipado en baja fidelidad
 - Proyecto Final con informe completo de UX Research
 
-### 🎨 Diseño UI
+### 🎨 Diseño UI (1 cuatrimestre)
 - Sistema de grillas y patrones de diseño
 - Prototipado funcional y alta fidelidad en Figma
 - Accesibilidad (WCAG) y usabilidad
@@ -104,4 +115,3 @@ integrando experiencia práctica con formación constante en:
 ---
 
 <!-- Contador de visitas opcional -->
-
