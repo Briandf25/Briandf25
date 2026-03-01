@@ -60,7 +60,39 @@ integrando experiencia práctica con formación constante en:
 - Pipelines CI/CD  
 - Monitoreo avanzado  
 - Automatización de tareas  
-- Gestión y seguridad de sistemas    
+- Gestión y seguridad de sistemas  
+
+---
+
+## 🎓 Formación en Diseño UX/UI – Talento Tech
+
+### 🧠 Fundamentos del Diseño UX
+- Investigación UX (entrevistas, encuestas y benchmarking competitivo)
+- User Persona y Mapa de Empatía
+- User Journey Map (UJM)
+- MVP (Producto Mínimo Viable)
+- Arquitectura de la Información (Card Sorting y Sitemap)
+- Task Flow y User Flow
+- Wireframing y prototipado en baja fidelidad
+- Proyecto Final con informe completo de UX Research
+
+### 🎨 Diseño UI
+- Sistema de grillas y patrones de diseño
+- Prototipado funcional y alta fidelidad en Figma
+- Accesibilidad (WCAG) y usabilidad
+- UI Kits y Sistemas de Diseño
+- Color, tipografía y jerarquía visual
+- UX Motion y microinteracciones
+- Pruebas de usabilidad con métricas
+- Proyecto Final Integrador con prototipo interactivo
+
+### ⚛️ Especialización en Figma & Atomic Design (Intensivo)
+- Diseño basado en componentes reutilizables
+- Metodología Atomic Design (Átomos, Moléculas y Organismos)
+- Auto Layout avanzado y estructuras responsivas
+- Variantes y estados de componentes
+- Prototipado interactivo
+- Organización profesional de Design Systems
 
 ---
 
